@@ -1,0 +1,15 @@
+.form {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    color: #828282;
+}
+.container {
+    max-width: 1320px;
+    margin: 0 auto;
+    padding: 5%;
+}
+
+.finishedOrder{
+    padding: 60px 40px 550px 40px;
+}

@@ -1,0 +1,31 @@
+.footer{
+    left: 0;
+    bottom: 0;
+    width: 99%;
+    height: 300px;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    padding: 30px 10px 30px 10px;
+}
+
+.footerTitle{
+    text-align: center;
+    padding-bottom:30px;
+
+}
+
+.footerElements{
+    display: flex;
+    justify-content: space-evenly;
+}
+.submiteButton{
+    background-color: white;
+    border: 2px solid rgb(19, 19, 19);
+    min-width: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 15px;
+}
